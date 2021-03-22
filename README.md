@@ -1,12 +1,41 @@
 <p align="center">
-  <a href="https://shopping-cart-with-react-redux.vercel.app/">
+  <a href="http://form-validation-4lex-passos.vercel.app/">
     <img src="https://github.com/4lex-passos/Form-Validation/blob/main/public/logo.png" />
   </a>
 </p>
 
-# Getting Started with Create React App
+<h3 align="center">
+   Validação de formulario usando:
+</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+   React Hooks - React Router
+</h1>
+
+<h2 align="center">
+  <a target="_blank" href="http://form-validation-4lex-passos.vercel.app/">🔍 Vizualizar a demo 🔍</a>
+</h2>
+
+# Instalação e execução
+
+1 - Na página principal do repositório.
+
+2 - Acima da lista de arquivos, clique em  código.
+
+
+<p align="center">
+    <img src="https://docs.github.com/assets/images/help/repository/code-button.png" />
+</p>
+
+3 - Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique no icone de prancheta. 
+
+<p align="center">
+    <img src="https://docs.github.com/assets/images/help/repository/https-url-clone.png" />
+</p>
+
+
+
+
 
 ## Available Scripts
 
