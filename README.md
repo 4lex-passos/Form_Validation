@@ -14,13 +14,13 @@
     <a href="http://form-validation-4lex-passos.vercel.app/"><strong>Vizualizar a demo »</strong></a>
 </p>
 
-## 🚩 Construído com
+## 🚩  Construído com:
 
 -   [ReactJs](https://pt-br.reactjs.org/)
 -   [React Router](https://reactrouter.com/)
 -   [Styled Components](https://styled-components.com/)
 
-## 🚩 Instalação e execução
+## 🚩  Instalação e execução:
 
 1 - Na página principal do repositório.
 
