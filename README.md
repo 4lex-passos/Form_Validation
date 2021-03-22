@@ -20,22 +20,17 @@
 
 1 - Na página principal do repositório.
 
-2 - Acima da lista de arquivos, clique em  código.
-
+2 - Acima da lista de arquivos, clique em código.
 
 <p align="center">
-    <img src="https://docs.github.com/assets/images/help/repository/code-button.png" />
+    <img width ="100" height ="100" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
 </p>
 
-3 - Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique no icone de prancheta. 
+3 - Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique no icone de prancheta.
 
 <p align="center">
     <img src="https://docs.github.com/assets/images/help/repository/https-url-clone.png" />
 </p>
-
-
-
-
 
 ## Available Scripts
 
