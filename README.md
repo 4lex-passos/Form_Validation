@@ -73,7 +73,7 @@ Primeiramenta iremos validar os campos de cadastro e criar um usuário para pode
 2 - Clique em um campo e depois clique fora do campo:
 
 ```sh
-A aplicação ira acusar que o campo que não foi preenchido é obrigatório
+A aplicação ira acusar que o campo que não foi preenchido é obrigatório.
 ```
 
 <p align="center">
@@ -83,10 +83,22 @@ A aplicação ira acusar que o campo que não foi preenchido é obrigatório
 3 - Volte a preencher o campo:
 
 ```sh
-Note que alguns campos retornarão um erro caso um requesito não seja atendido pelo campo a ser preenchido
+Note que alguns campos retornarão um erro caso um requesito não seja atendido pelo campo a ser preenchido.
 ```
 
 <p align="center">
     <img width ="70%" src="https://github.com/4lex-passos/Form-Validation/blob/main/src/assets/exemplo.gif" />
 </p>
 
+4 - Enviando dados do novo usuario:
+
+```sh
+O botão [CRIAR CONTA] so irá ser abilitado quando todos os campos estiverem preenchidos corretamente.
+```
+
+5 - Clique em criar conta e espere a confirmação, que dentro de 8 segundos você sera redirecionado para a tela de login.
+
+
+### » Realizando o Login:
+
+Para realizar o login é necessario ter criado previamente um novo usuario:
