@@ -77,7 +77,7 @@ A aplicação ira acusar que o campo que não foi preenchido é obrigatório
 ```
 
 <p align="center">
-    <img width ="70%" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
+    <img width ="70%" src="https://github.com/4lex-passos/Form-Validation/blob/main/src/assets/exemplo1.gif" />
 </p>
 
 3 - Volte a preencher o campo:
