@@ -135,7 +135,7 @@ export default function Login() {
 
         if (!password.length) {
             setPasswordError("Campo obrigatório!");
-        } else if (password.length > 6) {
+        } else if (password.length  <= 5) {
             setPasswordError(
                 "Deve conter 6 caracteres ou mais, ao menos um caractere especial, uma letra maiúscula e um dígito numérico."
             );
