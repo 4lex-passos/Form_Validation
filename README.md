@@ -103,7 +103,7 @@ O botão [CRIAR CONTA] so irá ser abilitado quando todos os campos estiverem pr
 Para realizar o login é necessario ter criado previamente um novo usuario:
 
 ```sh
-Se o email e a senha estiverem corretos, uma mensagem de sucesso sera exibida.
+Se o email e a senha estiverem corretos, uma mensagem de *SUCESSO* sera exibida.
 ```
 
 <p align="center">
@@ -111,7 +111,7 @@ Se o email e a senha estiverem corretos, uma mensagem de sucesso sera exibida.
 </p>
 
 ```sh
-Se o email e a senha estiverem incorretos, uma mensagem de erro sera exibida e o formulario sera resetado.
+Se o email e a senha estiverem incorretos, uma mensagem de *ERRO* sera exibida e o formulario sera resetado.
 ```
 
 <p align="center">
