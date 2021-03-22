@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shopping-cart-with-react-redux.vercel.app/">
-    <img src="https://github.com/4lex-passos/Shopping-Cart-with-React-Redux/blob/main/public/images/README_LOGO.png" />
+    <img src="https://github.com/4lex-passos/Form-Validation/blob/main/public/logo.png" />
   </a>
 </p>
 
