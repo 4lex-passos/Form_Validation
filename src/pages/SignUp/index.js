@@ -48,7 +48,6 @@ export default function Login() {
     );
 
     useEffect(() => {
-        console.log("FORM VALID: ", formIsValid);
         if (
             !nameError &&
             !emailError &&
