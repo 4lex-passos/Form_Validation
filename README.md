@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://form-validation-4lex-passos.vercel.app/">
-    <img src="https://github.com/4lex-passos/Form-Validation/blob/main/public/logo.png" />
+    <img src="https://github.com/4lex-passos/Form-Validation/blob/main/public/logo2.png" />
   </a>
 </p>
 
