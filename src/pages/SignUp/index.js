@@ -109,7 +109,7 @@ export default function Login() {
             setNameError("Campo obrigatório!");
         } else if (!nameRegex.test(name) || name.length < 5) {
             setNameError(
-                "Deve conter peno menos 3 caracteres e ser composto apenas por letras."
+                "Deve conter peno menos 5 caracteres e ser composto apenas por letras."
             );
         } else {
             setNameError("");
