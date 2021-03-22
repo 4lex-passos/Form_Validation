@@ -98,7 +98,22 @@ O botão [CRIAR CONTA] so irá ser abilitado quando todos os campos estiverem pr
 
 5 - Clique em criar conta e espere a confirmação, que dentro de 8 segundos você sera redirecionado para a tela de login.
 
-
 ### » Realizando o Login:
 
 Para realizar o login é necessario ter criado previamente um novo usuario:
+
+```sh
+Se o email e a senha estiverem corretos, uma mensagem de sucesso sera exibida.
+```
+
+<p align="center">
+    <img width ="80%" src="https://github.com/4lex-passos/Form-Validation/blob/main/src/assets/loginSucess.PNG" />
+</p>
+
+```sh
+Se o email e a senha estiverem incorretos, uma mensagem de erro sera exibida e o formulario sera resetado.
+```
+
+<p align="center">
+    <img width ="80%" src="https://github.com/4lex-passos/Form-Validation/blob/main/src/assets/loginError.PNG" />
+</p>
