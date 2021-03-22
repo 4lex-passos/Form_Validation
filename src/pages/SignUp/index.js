@@ -87,7 +87,7 @@ export default function Login() {
             passwordConfirm !== ""
         ) {
             let res = await Api.signUp(name, email, password);
-            console.log(res);
+            
             if (res.token) {
                 setAlertSignUpConfirm(true);
                 setSignUpConfirm(
