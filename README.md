@@ -87,6 +87,6 @@ Note que alguns campos retornarão um erro caso um requesito não seja atendido 
 ```
 
 <p align="center">
-    <img width ="70%" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
+    <img width ="70%" src="https://github.com/4lex-passos/Form-Validation/blob/main/src/assets/exemplo2.gif" />
 </p>
 
