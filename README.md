@@ -22,7 +22,7 @@
 
 2 - Acima da lista de arquivos, clique em código.
 
-<p align="center">
+<p>
     <img width ="50%" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
 </p>
 
