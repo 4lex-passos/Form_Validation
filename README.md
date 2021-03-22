@@ -5,13 +5,13 @@
 </p>
 
 <h2 align="center">
-   Validação de formulario
+   Validação de formulário
 </h2>
 
 <p align="center">
     React Hooks - React Router
 <br/>
-    <a href="http://form-validation-4lex-passos.vercel.app/"><strong>Vizualizar a demo »</strong></a>
+    <a href="http://form-validation-4lex-passos.vercel.app/"><strong>Visualizar  a demo »</strong></a>
 </p>
 
 ## 🎈 Construído com:
@@ -32,7 +32,7 @@
     <img width ="50%" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
 </p>
 
-3 - Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique no icone de prancheta.
+3 - Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique no ícone de prancheta.
 
 <p align="center">
     <img width ="50%" src="https://docs.github.com/assets/images/help/repository/https-url-clone.png" />
@@ -66,14 +66,14 @@ yarn add react-router-dom styled-components
 
 ### » Primeiros passos:
 
-Primeiramenta iremos validar os campos de cadastro e criar um usuário para poder simular um login posteiormente.
+Primeiramente iremos validar os campos de cadastro e criar um usuário para poder simular um login posteriormente.
 
 1 - Clique na aba de NOVO USUÁRIO.
 
 2 - Clique em um campo e depois clique fora do campo:
 
 ```sh
-A aplicação ira acusar que o campo que não foi preenchido é obrigatório.
+A aplicação irá acusar que o campo que não foi preenchido é obrigatório.
 ```
 
 <p align="center">
@@ -83,27 +83,27 @@ A aplicação ira acusar que o campo que não foi preenchido é obrigatório.
 3 - Volte a preencher o campo:
 
 ```sh
-Note que alguns campos retornarão um erro caso um requesito não seja atendido pelo campo a ser preenchido.
+Note que alguns campos retornarão um erro caso um requisito não seja atendido pelo campo a ser preenchido.
 ```
 
 <p align="center">
     <img width ="70%" src="https://github.com/4lex-passos/Form-Validation/blob/main/src/assets/exemplo.gif" />
 </p>
 
-4 - Enviando dados do novo usuario:
+4 - Enviando dados do novo usuário:
 
 ```sh
-O botão [CRIAR CONTA] so irá ser abilitado quando todos os campos estiverem preenchidos corretamente.
+O botão [CRIAR CONTA] so irá ser habilitado  quando todos os campos estiverem preenchidos corretamente.
 ```
 
-5 - Clique em criar conta e espere a confirmação, que dentro de 8 segundos você sera redirecionado para a tela de login.
+5 - Clique em criar conta e espere a confirmação, que dentro de 8 segundos você será redirecionado para a tela de login.
 
 ### » Realizando o Login:
 
-Para realizar o login é necessario ter criado previamente um novo usuario:
+Para realizar o login é necessário ter criado previamente um novo usuário:
 
 ```sh
-Se o email e a senha estiverem corretos, uma mensagem de *SUCESSO* sera exibida.
+Se o email e a senha estiverem corretos, uma mensagem de *SUCESSO* será exibida.
 ```
 
 <p align="center">
@@ -111,7 +111,7 @@ Se o email e a senha estiverem corretos, uma mensagem de *SUCESSO* sera exibida.
 </p>
 
 ```sh
-Se o email e a senha estiverem incorretos, uma mensagem de *ERRO* sera exibida e o formulario sera resetado.
+Se o email e a senha estiverem incorretos, uma mensagem de *ERRO* será exibida e o formulário será resetado.
 ```
 
 <p align="center">
