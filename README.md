@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://shopping-cart-with-react-redux.vercel.app/">
+    <img src="https://github.com/4lex-passos/Shopping-Cart-with-React-Redux/blob/main/public/images/README_LOGO.png" />
+  </a>
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
