@@ -14,15 +14,15 @@
     <a href="http://form-validation-4lex-passos.vercel.app/"><strong>Vizualizar a demo »</strong></a>
 </p>
 
-## 🚩 Construído com:
+## 🎈 Construído com:
 
 -   [ReactJs](https://pt-br.reactjs.org/)
 -   [React Router](https://reactrouter.com/)
 -   [Styled Components](https://styled-components.com/)
 
-## 🚩 Instalação e execução:
+## 🎈Instalação e execução:
 
-### Clonando o repositório:
+### » Clonando o repositório:
 
 1 - Na página principal do repositório.
 
@@ -50,7 +50,7 @@ $ git clone https://github.com/4lex-passos/Form-Validation.git
 
 7 - Pressione Enter para criar seu clone local.
 
-### Instalando as dependencias:
+### » Instalando as dependências:
 
 ```sh
 npm install react-router-dom styled-components
@@ -61,3 +61,31 @@ ou
 ```sh
 yarn add react-router-dom styled-components
 ```
+
+## 🎈 Uso:
+
+### » Primeiros passos:
+
+Primeiramenta iremos validar os campos de cadastro e criar um usuário para simular um login.
+
+1 - Clique na aba de NOVO USUÁRIO.
+
+2 - Clique em um campo e depois clique fora do campo:
+
+```sh
+ Note que a aplicação ira acusar que o campo que não foi preenchido é obrigatório
+```
+
+<p align="center">
+    <img width ="70%" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
+</p>
+
+3 - Volte a preencher o campo e experimente:
+
+```sh
+Alguns campos retornarão um erro caso um requesito não seja atendido
+```
+
+<p align="center">
+    <img width ="70%" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
+</p>
