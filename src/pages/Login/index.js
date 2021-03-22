@@ -41,7 +41,7 @@ export default function Login() {
     const [autenticationSucess, setAutenticationSucess] = useState("");
 
     useEffect(() => {
-        if (!emailError && !passwordError && password.length > 5) {
+        if (!emailError && !passwordError && password.length < 6) {
             console.log("FORM IS VALID");
             setFormIsValid(true);
         } else {

@@ -66,26 +66,27 @@ yarn add react-router-dom styled-components
 
 ### » Primeiros passos:
 
-Primeiramenta iremos validar os campos de cadastro e criar um usuário para simular um login.
+Primeiramenta iremos validar os campos de cadastro e criar um usuário para poder simular um login posteiormente.
 
 1 - Clique na aba de NOVO USUÁRIO.
 
 2 - Clique em um campo e depois clique fora do campo:
 
 ```sh
- Note que a aplicação ira acusar que o campo que não foi preenchido é obrigatório
+A aplicação ira acusar que o campo que não foi preenchido é obrigatório
 ```
 
 <p align="center">
     <img width ="70%" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
 </p>
 
-3 - Volte a preencher o campo e experimente:
+3 - Volte a preencher o campo:
 
 ```sh
-Alguns campos retornarão um erro caso um requesito não seja atendido
+Note que alguns campos retornarão um erro caso um requesito não seja atendido pelo campo a ser preenchido
 ```
 
 <p align="center">
     <img width ="70%" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
 </p>
+
