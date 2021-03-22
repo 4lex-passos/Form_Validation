@@ -23,14 +23,32 @@
 2 - Acima da lista de arquivos, clique em código.
 
 <p>
-    <img width ="50%" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
+    <img width ="70%" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
 </p>
 
 3 - Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique no icone de prancheta.
 
-<p align="center">
-    <img src="https://docs.github.com/assets/images/help/repository/https-url-clone.png" />
+<p>
+    <img width ="70%" src="https://docs.github.com/assets/images/help/repository/https-url-clone.png" />
 </p>
+
+4 - Abra Git Bash.
+
+5 - Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
+
+6 - Digite git clone (clonar git) e cole a URL deste repositório:
+
+<i>$ git clone https://github.com/4lex-passos/Form-Validation.git</i>
+
+7 - Pressione Enter para criar seu clone local.
+
+$ git clone https://github.com/4lex-passos/Form-Validation.git
+
+> Cloning into `Spoon-Knife`...
+> remote: Contando objetos: 10, concluído.
+> remote: Compactando objetos: 100% (8/8), concluído.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
 
 ## Available Scripts
 
