@@ -14,13 +14,15 @@
     <a href="http://form-validation-4lex-passos.vercel.app/"><strong>Vizualizar a demo »</strong></a>
 </p>
 
-## 🚩  Construído com:
+## 🚩 Construído com:
 
 -   [ReactJs](https://pt-br.reactjs.org/)
 -   [React Router](https://reactrouter.com/)
 -   [Styled Components](https://styled-components.com/)
 
-## 🚩  Instalação e execução:
+## 🚩 Instalação e execução:
+
+### Clonando o repositório:
 
 1 - Na página principal do repositório.
 
@@ -47,3 +49,15 @@ $ git clone https://github.com/4lex-passos/Form-Validation.git
 ```
 
 7 - Pressione Enter para criar seu clone local.
+
+### Instalando as dependencias:
+
+```sh
+npm install react-router-dom styled-components
+```
+
+ou
+
+```sh
+yarn add react-router-dom styled-components
+```
