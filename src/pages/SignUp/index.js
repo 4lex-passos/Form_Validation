@@ -87,16 +87,20 @@ export default function Login() {
             passwordConfirm !== ""
         ) {
             let res = await Api.signUp(name, email, password);
-            console.log(res);
-            if (res.token) {
-                setAlertSignUpConfirm(true);
-                setSignUpConfirm(
-                    "Solicitação enviada! Aguarde a aprovação do cadastro"
-                );
-                setTimeout(() => history.push("/"), 7000);
+
+            if (res.error) {
+                alert(res.error);
+            } else {
+                if (res.token) {
+                    setAlertSignUpConfirm(true);
+                    setSignUpConfirm(
+                        "Solicitação enviada! Aguarde a aprovação do cadastro"
+                    );
+                    setTimeout(() => history.push("/"), 7000);
+                }
             }
         } else {
-            console.log("preencha todos os campos");
+            alert("preencha todos os campos");
         }
     };
 
@@ -135,7 +139,7 @@ export default function Login() {
 
         if (!password.length) {
             setPasswordError("Campo obrigatório!");
-        } else if (password.length  <= 5) {
+        } else if (password.length <= 5) {
             setPasswordError(
                 "Deve conter 6 caracteres ou mais, ao menos um caractere especial, uma letra maiúscula e um dígito numérico."
             );
@@ -313,7 +317,7 @@ export default function Login() {
 
                         {alertSignUpConfirm ? (
                             <AutentcationSucess>
-                                <EmailIcon/>
+                                <EmailIcon />
                                 {signUpConfirm}
                             </AutentcationSucess>
                         ) : (
