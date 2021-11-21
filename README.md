@@ -1,24 +1,22 @@
 <p align="center">
-  <a href="http://form-validation-4lex-passos.vercel.app/">
-    <img src="https://github.com/4lex-passos/Form-Validation/blob/main/public/logo2.png" />
-  </a>
+    <img src="https://github.com/4lex-passos/Shopping-Cart-with-React-Redux/blob/main/public/images/README-HEADER-TEMPLATE.png" />
 </p>
 
-<h2 align="center">
-   Validação de formulário
-</h2>
+<h4 align="center">
+    ReactJSㅤ᎓ㅤReact Routerㅤ᎓ㅤRedux
+</h4>
+
+<p align="center">Itens podem ser adicionados ao carrinho de compras</p>
 
 <p align="center">
-    React Hooks - React Router
-<br/>
-    <a href="http://form-validation-4lex-passos.vercel.app/"><strong>Visualizar  a demo »</strong></a>
+    <a href="https://shopping-cart-with-react-redux.vercel.app/">
+        <img src="https://img.shields.io/static/v1?label=View&message=Demo&color=9781dd&style=for-the-badge&logo=ghost"/>
+    </a>
+    <img src="https://img.shields.io/static/v1?label=Status&message=in progress&color=9781dd&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=License&message=Mit&color=9781dd&style=for-the-badge&logo=Ghost"/>
 </p>
 
-## 🎈 Construído com:
-
--   [ReactJs](https://pt-br.reactjs.org/)
--   [React Router](https://reactrouter.com/)
--   [Styled Components](https://styled-components.com/)
+<br/>
 
 ## 🎈Instalação e execução:
 
