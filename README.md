@@ -92,9 +92,9 @@ Para iniciar a aplicação.
 
 Primeiramente iremos validar os campos de cadastro e criar um usuário para poder simular um login posteriormente.
 
-1 - Clique na aba de NOVO USUÁRIO.
+❶ Clique na aba de NOVO USUÁRIO.
 
-2 - Clique em um campo e depois clique fora do campo:
+❷ Clique em um campo e depois clique fora do campo:
 
 ```sh
 A aplicação irá acusar que o campo que não foi preenchido é obrigatório.
@@ -104,7 +104,7 @@ A aplicação irá acusar que o campo que não foi preenchido é obrigatório.
     <img width ="70%" src="https://github.com/4lex-passos/Form-Validation/blob/main/src/assets/exemplo1.gif" />
 </p>
 
-3 - Volte a preencher o campo:
+❸ Volte a preencher o campo:
 
 ```sh
 Note que alguns campos retornarão um erro caso um requisito não seja atendido pelo campo a ser preenchido.
@@ -114,13 +114,13 @@ Note que alguns campos retornarão um erro caso um requisito não seja atendido 
     <img width ="70%" src="https://github.com/4lex-passos/Form-Validation/blob/main/src/assets/exemplo.gif" />
 </p>
 
-4 - Enviando dados do novo usuário:
+❹ Enviando dados do novo usuário:
 
 ```sh
 O botão [CRIAR CONTA] so irá ser habilitado  quando todos os campos estiverem preenchidos corretamente.
 ```
 
-5 - Clique em criar conta e espere a confirmação, que dentro de 8 segundos você será redirecionado para a tela de login.
+❺ Clique em criar conta e espere a confirmação, que dentro de 8 segundos você será redirecionado para a tela de login.
 
 ### » Realizando o Login:
 
