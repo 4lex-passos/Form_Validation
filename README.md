@@ -10,55 +10,77 @@
 
 <p align="center">
     <a href="https://form-validation-4lex-passos.vercel.app/">
-        <img src="https://img.shields.io/static/v1?label=View&message=Demo&color=9781dd&style=for-the-badge&logo=ghost"/>
+        <img src="https://img.shields.io/static/v1?label=View&message=Demo&color=e43228&style=for-the-badge&logo=ghost"/>
     </a>
-    <img src="https://img.shields.io/static/v1?label=Status&message=FINISHED&color=9781dd&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=License&message=Mit&color=9781dd&style=for-the-badge&logo=Ghost"/>
+    <img src="https://img.shields.io/static/v1?label=Status&message=FINISHED&color=e43228&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=License&message=Mit&color=e43228&style=for-the-badge&logo=Ghost"/>
 </p>
 
 <br/>
+<p alt="INSTALAÇÃO" align="center">
+    <img src="https://github.com/4lex-passos/Form_Validation/blob/main/public/README-TITLES-INSTALA%C3%87%C3%83O.png" />
+</p>
 
-## 🎈Instalação e execução:
+### CLONANDO O REPOSITÓRIO:
+</br>
 
-### » Clonando o repositório:
+❶ Navegue para a página principal do repositório.
 
-1 - Na página principal do repositório.
-
-2 - Acima da lista de arquivos, clique em código.
-
-<p align="center">
+❷ Acima da lista de arquivos, clique em código.
+</br>
+<p>
     <img width ="50%" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
 </p>
 
-3 - Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique no ícone de prancheta.
-
-<p align="center">
+❸ Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique no ícone de prancheta.
+</br>
+<p>
     <img width ="50%" src="https://docs.github.com/assets/images/help/repository/https-url-clone.png" />
 </p>
 
-4 - Abra Git Bash.
+❹ Abra Git Bash.
 
-5 - Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
+❺ Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
 
-6 - Digite git clone (clonar git) e cole a URL deste repositório:
-
-```sh
-$ git clone https://github.com/4lex-passos/Form-Validation.git
-```
-
-7 - Pressione Enter para criar seu clone local.
-
-### » Instalando as dependências:
+❻ Digite git clone (clonar git) e cole a URL deste repositório:
 
 ```sh
-npm install react-router-dom styled-components
+$ git clone https://github.com/4lex-passos/Form_Validation.git
 ```
 
-ou
+❼ Pressione Enter para criar seu clone local.
+
+</br>
+</br>
+
+<p alt="EXECUÇÃO" align="center">
+    <img src="https://github.com/4lex-passos/Form_Validation/blob/main/public/README-TITLES-EXECU%C3%87%C3%83O.png" />
+</p>
+
+❶ Abra o projeto no VsCode.
+
+### INSTALANDO AS DEPENDÊNCIAS:
+</br>
+
+❷ No terminal digite:
 
 ```sh
-yarn add react-router-dom styled-components
+npm install
 ```
+Para instalar todas as dependências.
+
+### INICIANDO O APP:
+</br>
+
+❸ No terminal digite:
+
+```sh
+npm start
+```
+
+
+Para iniciar a aplicação.
+</br>
 
 ## 🎈 Uso:
 
